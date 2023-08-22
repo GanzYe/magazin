@@ -13,11 +13,11 @@ Courier App is a versatile Flutter application designed for courier companies to
 - Order Completion: Couriers can mark orders as completed once they are delivered. Completed orders are then moved to the history section for reference.
 
 ## Usage
-*Admin*: Log in using your admin credentials to access the admin panel. From there, you can create new orders and assign them to couriers.
+- *Admin*: Log in using your admin credentials to access the admin panel. From there, you can create new orders and assign them to couriers.
 
-*Courier*: Log in as a courier to view your assigned orders and mark them as completed upon delivery.
+- *Courier*: Log in as a courier to view your assigned orders and mark them as completed upon delivery.
 
 ## Screenshots
-Admin Panel
 
-Courier Dashboard
+![photo_2023-08-23_00-18-00](https://github.com/GanzYe/magazin/assets/64725079/87ef73ae-02f9-42d9-abd6-dc9ed18b1df9) ![photo_2023-08-23_00-18-01 (3)](https://github.com/GanzYe/magazin/assets/64725079/62caa7d4-2cd9-436e-bf27-d109c3d28cd1)
+
