@@ -20,6 +20,7 @@ Courier App is a versatile Flutter application designed for courier companies to
 ## Screenshots
 
 Login page:
+
  ![imgonline-com-ua-Resize-xhPpfFo1mCvVjsIi](https://github.com/GanzYe/magazin/assets/64725079/7df8337e-1d0f-437e-bdcf-dc32df0d756b) ![imgonline-com-ua-Resize-7sLADUaDkVz](https://github.com/GanzYe/magazin/assets/64725079/391b0bbc-4a66-4d6a-960e-6735e69c72cc)
 
 Orders page:
